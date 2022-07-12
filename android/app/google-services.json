@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575460749029",
+    "project_id": "meet-up-a3206",
+    "storage_bucket": "meet-up-a3206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575460749029:android:967ec88ff07b069821ae0c",
+        "android_client_info": {
+          "package_name": "com.deepti.meet_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575460749029-b87kunjlh0ah266hlfbi8upst4c0r17l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepti.meet_up",
+            "certificate_hash": "cc95f01e2dca20b07402e12badf626680a3b128f"
+          }
+        },
+        {
+          "client_id": "575460749029-nqek0f8q7t1nssl9spfbkfi0ik70qk1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlNc9S-UPYJRTpeH52yrFY9rKz2FUcHZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575460749029-nqek0f8q7t1nssl9spfbkfi0ik70qk1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
